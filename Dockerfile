@@ -10,4 +10,4 @@ EXPOSE 8080 80
 
 
 CMD ["npm", "start"]
-#CMD ["npm","start"]
+
